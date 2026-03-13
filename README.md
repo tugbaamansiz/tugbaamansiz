@@ -58,11 +58,19 @@ Computer Engineering student interested in software development, data structures
 
 ---
 
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=tugbaamansiz&theme=radical&margin-w=15&margin-h=15)
+
+---
+
 ## 🌱 Goals
 
 - Improve problem solving skills
 - Build backend projects
 - Learn advanced data structures and algorithms
+
+---
 
 ## 🐍 Contribution Snake
 
