@@ -63,3 +63,8 @@ Computer Engineering student interested in software development, data structures
 - Improve problem solving skills
 - Build backend projects
 - Learn advanced data structures and algorithms
+
+  ## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/tugbaamansiz/tugbaamansiz/blob/output/github-contribution-grid-snake.svg)
+
