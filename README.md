@@ -68,3 +68,4 @@ Computer Engineering student interested in software development, data structures
 
 ![Snake animation](https://github.com/tugbaamansiz/tugbaamansiz/blob/output/github-contribution-grid-snake.svg)
 
+
